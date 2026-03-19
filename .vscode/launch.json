@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FolioDesk POS",
+            "request": "launch",
+            "mainClass": "com.restaurantpos.Main",
+            "projectName": "restaurant-pos",
+            "args": [],
+            "vmArgs": "-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true"
+        }
+    ]
+}
