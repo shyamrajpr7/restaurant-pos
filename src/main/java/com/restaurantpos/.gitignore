@@ -1,5 +1,8 @@
+cat > ~/.gitignore_global << 'EOF'
 target/
 *.class
+*.jar
 *.db
 .DS_Store
 dependency-reduced-pom.xml
+EOF

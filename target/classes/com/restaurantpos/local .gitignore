@@ -1,4 +1,4 @@
-cat > ~/.gitignore_global << 'EOF'
+cat > ~/Downloads/restaurant-pos-java/.gitignore << 'EOF'
 target/
 *.class
 *.jar
